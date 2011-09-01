@@ -1,0 +1,8 @@
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\bin\x86\Debug\Content\font.xnb
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\bin\x86\Debug\LevelEditor.exe
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\bin\x86\Debug\LevelEditor.pdb
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\bin\x86\Debug\Ian_Zunderdorp.dll
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+f:\users\documents\visual studio 2010\Projects\LevelEditor\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
